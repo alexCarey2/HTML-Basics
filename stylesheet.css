@@ -1,8 +1,10 @@
+/* Changed the background color of the webpage */
 body {
   background-color: purple;
   text-align: center;
 }
 h1 {
+	/*Changes the color of the header to blue */
   color: blue;
   
 }
